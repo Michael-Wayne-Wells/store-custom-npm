@@ -1,4 +1,4 @@
 export enum Subjects {
   ProductCreated = 'product:created',
-  ProductedUpdated = 'producted:updated',
+  ProductUpdated = 'product:updated',
 }
