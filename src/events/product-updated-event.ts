@@ -5,6 +5,7 @@ export interface ProductUpdatedEvent {
   data: {
     id: string;
     title: string;
+    description: string;
     price: number;
     version: number;
     userId: string;
